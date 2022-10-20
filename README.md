@@ -1,5 +1,5 @@
-# Hi I'm Bee 🐝
-### Sharing what matters
+# Hi, I'm Bee 🐝
+### Create. Iterate. Collaborate. Curate. Cross-pollinate.
 
 I make websites, find security bugs, build communities, and curate content.
 
